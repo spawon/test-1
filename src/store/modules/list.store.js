@@ -46,5 +46,3 @@ export const mutations = {
     s.items[index].fields = [...s.oldItemValue]
   }
 }
-export const actions = {
-}
